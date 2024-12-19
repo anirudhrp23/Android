@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "name":"Sreekar",
+      "email": "vellalasreekar@gmail.com",
+      "phone": "9441833186",
+      "designation":"Android Developer"
+    },
+    {
+      "name":"Anirudh",
+      "email": "anirudh@gmail.com",
+      "phone": "9441853186",
+      "designation":"full stack java Developer"
+    },
+    {
+      "name":"Sashank",
+      "email": "sashank@gmail.com",
+      "phone": "9441873186",
+      "designation":"Web Developer"
+    },
+    {
+      "name":"Akhilesh",
+      "email": "akilesh@gmail.com",
+      "phone": "9441893186",
+      "designation":".net Developer"
+    },
+    {
+      "name":"karthik",
+      "email": "karthik@gmail.com",
+      "phone": "9471833186",
+      "designation":"Android Developer"
+    },
+    {
+      "name":"alekyaa",
+      "email": "alekya@gmail.com",
+      "phone": "9441833186",
+      "designation":"mern stack Developer"
+    },
+    {
+      "name":"aadilakshmi",
+      "email": "lakshmi@gmail.com",
+      "phone": "9441830186",
+      "designation":"ios Developer"
+    },
+    {
+      "name":"kavitha",
+      "email": "kavitha@gmail.com",
+      "phone": "9441836186",
+      "designation":"Tester"
+    },
+    {
+      "name":"Nithish",
+      "email": "nithish@gmail.com",
+      "phone": "9441853186",
+      "designation":"full stack java Developer"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="welcome_to_sps">Welcome to SPS</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">UserName</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

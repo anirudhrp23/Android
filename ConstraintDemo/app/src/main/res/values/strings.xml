@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintDemo</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="anirudh_gmail_com">anirudh@gmail.com</string>
+    <string name="_9502192222">9502192222</string>
+    <string name="hyd_500027">HYD 500027</string>
+    <string name="anirudh">ANIRUDH</string>
+    <string name="todo">TODO</string>
+</resources>

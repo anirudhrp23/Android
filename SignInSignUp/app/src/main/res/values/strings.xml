@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignIn SignUp</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="successful_login">Successful Login</string>
+    <string name="back_to_main_page">Back to Main Page</string>
+</resources>

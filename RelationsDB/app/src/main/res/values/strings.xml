@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RelationsDB</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="load">Load</string>
+</resources>

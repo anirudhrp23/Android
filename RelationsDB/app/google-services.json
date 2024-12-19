@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027441350574",
+    "project_id": "relationsempdb",
+    "storage_bucket": "relationsempdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027441350574:android:2b6e033d4f381a2f569a3f",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.relationsdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cEQjPmSwBD68EUHEB2Z0Q-QgEOv-ukU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

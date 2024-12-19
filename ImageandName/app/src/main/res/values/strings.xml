@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image and Name</string>
+    <string name="lewis_hamilton">Lewis Hamilton</string>
+    <string name="carlos_sainz">Carlos Sainz</string>
+    <string name="charles_leclerc">Charles Leclerc</string>
+    <string name="lando_norris">Lando Norris</string>
+    <string name="lewis">Lewis Hamilton</string>
+    <string name="max_verstappen">Max Verstappen</string>
+</resources>

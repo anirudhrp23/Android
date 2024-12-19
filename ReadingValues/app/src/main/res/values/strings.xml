@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reading Values</string>
+    <string name="data">Data</string>
+    <string name="submit">Submit</string>
+    <string name="value">Value</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+</resources>

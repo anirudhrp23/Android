@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/date_button"
+        android:layout_width="142dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="16dp"
+        android:hint="@string/date1"
+        app:icon="@drawable/ic_action_calendar"
+        app:layout_constraintEnd_toStartOf="@+id/time_button"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="199dp" />
+
+    <Button
+        android:id="@+id/time_button"
+        android:layout_width="152dp"
+        android:layout_height="45dp"
+        android:hint="@string/time1"
+        app:icon="@drawable/ic_action_clock"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/date_button"
+        tools:layout_editor_absoluteY="199dp" />
+
+    <EditText
+        android:id="@+id/source_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_action_bus"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="@string/source1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/destination_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_action_bus"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="@string/destination1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/source_et" />
+
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="172dp"
+        android:layout_height="51dp"
+        android:text="@string/submit1"
+        app:icon="@drawable/ic_action_submit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="294dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

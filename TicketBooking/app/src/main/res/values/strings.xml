@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ticket Booking</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+    <string name="time1">Time</string>
+    <string name="source1">Source</string>
+    <string name="destination1">Destination</string>
+    <string name="submit1">Submit</string>
+    <string name="date1">Date</string>
+    <string name="textview_source">TextView_source</string>
+    <string name="textview_destination">TextView_destination</string>
+    <string name="textview_date">TextView_date</string>
+    <string name="textview_time">TextView_time</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868949376037",
+    "project_id": "customauthentication-64b6f",
+    "storage_bucket": "customauthentication-64b6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868949376037:android:da3143b3fea857857ad3cc",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hEwR_to4_M-fF4clMV-kuT159npL29s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

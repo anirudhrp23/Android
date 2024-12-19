@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">F1 Drivers</string>
+    <string name="car_number">Car Number</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="team_name">Team Name</string>
+    <string name="submit">Submit</string>
+    <string name="load_data">Load Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete">Delete</string>
+    <string name="team_name_textView">Team Name</string>
+    <string name="driver_name_textView">Driver Name</string>
+    <string name="car">Car</string>
+</resources>

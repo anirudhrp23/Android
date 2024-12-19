@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AlertActivity">
+
+    <EditText
+        android:id="@+id/itemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:autofillHints=""
+        app:layout_constraintTop_toTopOf="parent"
+        android:hint="@string/item_name"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/itemPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="76dp"
+        android:autofillHints=""
+        android:hint="@string/item_price"
+        android:inputType="numberDecimal"
+        app:layout_constraintTop_toTopOf="@id/itemName"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/addItemButton"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="@string/add_item"
+        app:layout_constraintTop_toTopOf="@id/itemPrice"
+        tools:layout_editor_absoluteX="0dp"
+        android:layout_width="0dp"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
